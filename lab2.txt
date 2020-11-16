@@ -1,0 +1,19 @@
+Script started on Sun 15 Nov 2020 08:24:19 PM EST
+[bobbyh@centos246 cis246lab2]$ tar -tvf ~/archive/log.tar
+-rw-r--r-- root/root      4362 2020-11-15 17:48 ./tuned/tuned.log
+-rw------- root/root     23169 2020-11-01 20:03 ./anaconda/anaconda.log
+-rw------- root/root     19164 2020-11-01 20:03 ./anaconda/X.log
+-rw------- root/root     32537 2020-11-01 20:03 ./anaconda/program.log
+-rw------- root/root    113282 2020-11-01 20:03 ./anaconda/packaging.log
+-rw------- root/root     89538 2020-11-01 20:03 ./anaconda/storage.log
+-rw------- root/root      3423 2020-11-01 20:03 ./anaconda/ifcfg.log
+-rw------- root/root         0 2020-11-01 20:03 ./anaconda/ks-script-fXxFJu.log
+-rw------- root/root         0 2020-11-01 20:03 ./anaconda/ks-script-w9noFi.log
+-rw------- root/root   1460617 2020-11-01 20:03 ./anaconda/journal.log
+-rw------- root/root         0 2020-11-15 18:38 ./boot.log
+-rw------- root/root      1997 2020-11-05 22:09 ./yum.log
+[bobbyh@centos246 cis246lab2]$ ls ~/backup
+[0m[01;34manaconda[0m  boot.log  [01;34mtuned[0m  yum.log
+[bobbyh@centos246 cis246lab2]$ exit
+
+Script done on Sun 15 Nov 2020 08:25:43 PM EST
